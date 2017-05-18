@@ -1,0 +1,9 @@
+HUB USB 2.0 equipado con 7 puertos de alta velocidad.
+ Este HUB USB le permitirá conectar hasta siete periféricos USB. 
+Totalmente compatible con USB 2.0, con velocidades de transferencia de
+ datos de hasta 480 Mbps. Se puede usar para transferir datos conectándolo 
+directamente a un puerto USB del ordenador o bien utilizarlo como fuente
+ de carga de dispositivos USB utilizando el adaptador de corriente incluido.
+ Para la carga de dispositivos es recomendable el uso del cargador de red
+ suministrado
+
